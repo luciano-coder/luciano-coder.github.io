@@ -1,0 +1,19 @@
+enable  : false
+title   : People
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : Eszter Deriu
+    designation : Bride
+
+  - image       : images/team/team-member-two.jpg
+    name        : Luciano Deriu
+    designation : Groom
+
+  - image       : images/team/team-member-three.jpg
+    name        : Dia
+    designation : Wedding Planner
+
+  - image       : images/team/team-member-four.jpg
+    name        : John
+    designation : Master Of Ceremony
+

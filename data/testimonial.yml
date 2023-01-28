@@ -1,0 +1,59 @@
+enable  : true
+title   : "People to know"
+subtitle: "Key people to know"
+testimonial_item :
+  - thumb : "images/testimonial/eszter.png"
+    name  : "Eszter Deriu"
+    company_position: "The most important person"
+    quote : >
+            Make sure she drinks plenty of water.
+
+  - thumb : "images/testimonial/luciano.jpg"
+    name  : "Luciano Deriu"
+    company_position: "Groom"
+    quote : > 
+            Makes sure he drinks plenty of Palinka.
+
+  - thumb : "images/testimonial/ruby.jpg"
+    name  : "Ruby Deriu"
+    company_position: "Daughter"
+    quote : > 
+            Makes sure she drinks plenty of Palinka.
+
+  - thumb : "images/testimonial/gery.jpg"
+    name  : "Gery"
+    company_position: "Master of Ceremony"
+    quote : > 
+            He will help coordinate the days events, expect him to boss you about. He is Hungarian and speaks very good English.
+            You can ask him about the days events if you have any questions.
+
+  - thumb : "images/testimonial/dia.jpg"
+    name  : "Dia"
+    company_position: "Wedding Planner"
+    quote : > 
+            She will help coordinate the days events, expect her to boss you about. She is Hungarian and speaks very good English.
+            You can ask her about the days events if you have any questions.
+
+  - thumb : "images/testimonial/gabor.jpg"
+    name  : "Gabor Mohacsi"
+    company_position: "Father of the Bride"
+    quote : > 
+            Makes sure he drinks plenty of Palinka.
+
+  - thumb : "images/testimonial/renata.jpg"
+    name  : "Renata Mohacsi"
+    company_position: "Mother of the Bride"
+    quote : > 
+            Makes sure he drinks plenty of Palinka.
+        
+  - thumb : "images/testimonial/fiona.jpg"
+    name  : "Fiona Rigiani"
+    company_position: "Mother of the Groom"
+    quote : > 
+            Makes sure he drinks plenty of Gin and Tonic.
+  
+  - thumb : "images/testimonial/nick.jpg"
+    name  : "Nick Henderson"
+    company_position: "Step-Dad of the Groom"
+    quote : > 
+            Makes sure he drinks plenty of beer.
