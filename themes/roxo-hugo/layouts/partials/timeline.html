@@ -1,0 +1,30 @@
+{{ with .Site.Data.timeline }}
+  {{ if .enable }}
+  <section id="timeline" class="site-cta" style='background-image: url("{{ .background_image | absURL }}");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">{{ .title }}</h1>
+          <p>
+            {{ .subtitle }}
+          </p>
+          <section>
+            <div class="container" >
+              {{ range .timeline }}
+              <div class="row justify-content-center" >
+                <div class="col-md-6 text-right" >
+                    <h6 style="font-size:1.5em"><b>{{ .time }}</b></h6>
+                </div>
+                <div class="col-md-6 text-left" >
+                  <h6 style="font-size:1.5em">{{ .description }}</h6>
+              </div>
+              </div>
+              {{ end }}
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

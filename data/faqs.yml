@@ -1,0 +1,9 @@
+enable  : true
+title   : "Frequently Asked Questions"
+faqs: 
+  - q: "Will there be vegetarian options?"
+    a: "yes! there are lots of fields nearby"
+  - q: "How will you support the LBTQ community?"
+    a: "Sigh... it's not all about you. It's about us."
+  - q: "How will everyone know my pronouns?"
+    a: "They won't, you will get offended, no one will care and you can cry in the toilets."

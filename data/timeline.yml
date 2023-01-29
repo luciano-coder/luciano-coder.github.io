@@ -1,0 +1,11 @@
+enable  : true
+title   : "Timeline"
+subtitle: "What to expect during the day"
+background_image: "images/backgrounds/cta-background.jpg"
+timeline :
+  - time : "9am"
+    description : "Eat Food"
+  - time : "10am"
+    description : "Eat More Food"
+  - time : "11am"
+    description : "Drink Palinka"

@@ -1,4 +1,5 @@
 baseURL       = "https://wedding.ciano.co.uk/"
+# baseURL       = "http://localhost:8080/"
 languageCode  = "en-us"
 title         = "E&L Wedding 2023"
 theme         = "roxo-hugo"
@@ -9,105 +10,21 @@ summarylength = 25
   # Navbar Menus
   [[menu.nav]]
     name    = "Home"
-    url     = ""
+    url     = "#banner"
     weight  = 1
   [[menu.nav]]
-    name    = "The Venue"
-    url     = "about"
+    name    = "The Day"
+    URL     = "#timeline"
     weight  = 2
   [[menu.nav]]
-    name    = "The Day"
-    url     = "portfolio"
+    name    = "The People"
+    URL     = "#people"
     weight  = 3
   [[menu.nav]]
-    name    = "Other"
-    url     = "blog"
+    name    = "The Venue"
+    URL     = "#venue"
     weight  = 4
   [[menu.nav]]
     name    = "FAQs"
-    url     = "contact"
+    URL     = "#faqs"
     weight  = 5
-
-# Site Params
-[params]
-  logo = "images/logo.png"
-  dateFormat = "26 FEB 1994"
-  # Meta data
-  description = "Eszter & Luciano Wedding 6th Oct 2023"
-  author = "StaticMania"
-  # Google Analitycs
-  googleAnalitycsID = "Your ID"
-
-  # Navbar Action Button
-  [params.navAction]
-    status  = true
-    name    = "Get in touch"
-    url     = "contact"
-  
-
-  # Banner Section
-  [params.banner]
-    enable                = true
-    background_image      = "images/backgrounds/main.jpeg"
-    heading               = "Eszter & Luciano Wedding"
-    tagline               = "6th Oct 2023"
-    primary_button        = "The Venue"
-    primary_button_url    = "about"
-    secondary_button      = "The Day"
-    secondary_button_url  = "portfolio"
-
-  [params.portfolio]
-    enable    = false
-    title     = "The Venue"
-    subtitle  = "Useful Information about the Venue"
-
-  # [params.call_to_action]
-  #   enable              = false
-  #   background_image    = "images/backgrounds/cta-background.jpg"
-  #   title               = "LET’S WORK TOGETHER"
-  #   primary_button      = "Submit Query"
-  #   primary_button_url  = "contact"
-  #   secondary_button    = "Not Convinced"
-  #   secondary_button_url = "portfolio"
-
-  # [params.footer]
-  #   # Footer Contact Info
-  #   [params.footer.contactInfo]
-  #     title   = "Contact Info"
-  #     address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-  #     phone   = "409-896-1444"
-  #     email   = "info@roxo.co"
-  #     # Footer Sitemap
-  #     [params.footer.sitemap]
-  #       title   = "Sitemap"
-  #       [[params.footer.sitemap.link]]
-  #         name = "About Company"
-  #         url  = "about"
-  #       [[params.footer.sitemap.link]]
-  #         name = "Projects"
-  #         url  = "portfolio"
-  #       [[params.footer.sitemap.link]]
-  #         name = "Blog"
-  #         url  = "blog"
-  #       [[params.footer.sitemap.link]]
-  #         name = "Contact"
-  #         url  = "contact"
-  #     # Footer Social Media
-  #     [params.footer.social]
-  #       title   = "Social Media"
-  #       [[params.footer.social.link]]
-  #         name = "Medium"
-  #         url  = "#"
-  #       [[params.footer.social.link]]
-  #         name = "Behance"
-  #         url  = "#"
-  #       [[params.footer.social.link]]
-  #         name = "Dribbble"
-  #         url  = "#"
-  #       [[params.footer.social.link]]
-  #         name = "Instagram"
-  #         url  = "#"
-  #     # Footer Service
-  #     [params.footer.service]
-  #       title       = "We help brands:"
-  #       description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"

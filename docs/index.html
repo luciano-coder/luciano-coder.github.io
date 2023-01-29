@@ -7,8 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   
-  <meta name="author" content="StaticMania">
-  
   <meta name="generator" content="Hugo 0.108.0">
 
   <!-- Bootstrap -->
@@ -23,7 +21,7 @@
   
   <link rel="shortcut icon" href="https://wedding.ciano.co.uk/images/favicon.png" type="image/x-icon" />
   <link rel="icon" href="https://wedding.ciano.co.uk/images/favicon.ico" type="image/x-icon" />
-</head><body><nav class="navbar navbar-expand-lg site-navigation">
+</head><body><nav id="menu" class="navbar navbar-expand-lg site-navigation">
   <div class="container">
     <a class="navbar-brand" href="https://wedding.ciano.co.uk/">
       
@@ -46,7 +44,7 @@
          
           
           <li class="nav-item">
-            <a class="nav-link" href="https://wedding.ciano.co.uk/"
+            <a class="nav-link scroll-to" href="#banner"
               >Home</a
             >
           </li>
@@ -54,15 +52,7 @@
          
           
           <li class="nav-item">
-            <a class="nav-link" href="https://wedding.ciano.co.uk/about"
-              >The Venue</a
-            >
-          </li>
-           
-         
-          
-          <li class="nav-item">
-            <a class="nav-link" href="https://wedding.ciano.co.uk/portfolio"
+            <a class="nav-link scroll-to" href="#timeline"
               >The Day</a
             >
           </li>
@@ -70,8 +60,16 @@
          
           
           <li class="nav-item">
-            <a class="nav-link" href="https://wedding.ciano.co.uk/blog"
-              >Other</a
+            <a class="nav-link scroll-to" href="#people"
+              >The People</a
+            >
+          </li>
+           
+         
+          
+          <li class="nav-item">
+            <a class="nav-link scroll-to" href="#venue"
+              >The Venue</a
             >
           </li>
            
@@ -79,8 +77,8 @@
           
           <li class="nav-item">
             <a
-              class="nav-link btn btn-sm btn-primary btn-sm-rounded"
-              href="https://wedding.ciano.co.uk/contact"
+              class="nav-link scroll-to btn btn-sm btn-primary btn-sm-rounded"
+              href="#faqs"
             >
               <span class="btn-area">
                 <span data-text="FAQs">
@@ -100,42 +98,19 @@
 
   
   <!-- Site Hero Start -->
-  <section class="site-hero" style="background-image: url('images/backgrounds/main.jpeg');">
+  <section id="banner" class="site-hero" style="background-image: url('images/backgrounds/main.jpeg');">
     <div class="container">
       <div class="row">
         <div class="col-lg-10 mx-auto">
           <div class="site-hero-content text-center">
-            <h6 style="font-size:xx-large; color:aliceblue; font-weight:bold">6th Oct 2023</h6>
             <h1 style="color:aliceblue">
               Eszter &amp; Luciano Wedding
             </h1>
-            <ul class="site-hero-content-buttons">
-              <li>
-                <a href="https://wedding.ciano.co.uk/about" class="btn btn-secondary">
-                  <span class="btn-area">
-                    <span data-text="The Venue">
-                      The Venue
-                    </span>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://wedding.ciano.co.uk/portfolio" class="btn btn-primary">
-                  <span class="btn-area">
-                    <span data-text="The Day">
-                      The Day
-                    </span>
-                  </span>
-                </a>
-              </li>
-            </ul>
+            <h6 style="font-size:xx-large; color:aliceblue; font-weight:bold">6th October 2023</h6>
           </div>
         </div>
       </div>
     </div>
-    <a href="#counter" class="site-hero-scroll scroll-to">
-      <img src="https://wedding.ciano.co.uk/images/arrow-down.svg" alt="arrow-down">
-    </a>
   </section>
   <!-- Site Hero End -->
   
@@ -144,15 +119,57 @@
 
 
   
-
-
-
+  <section id="timeline" class="site-cta" style='background-image: url("https://wedding.ciano.co.uk/images/backgrounds/cta-background.jpg");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">Timeline</h1>
+          <p>
+            What to expect during the day
+          </p>
+          <section>
+            <div class="container" >
+              
+              <div class="row justify-content-center" >
+                <div class="col-md-6 text-right" >
+                    <h6 style="font-size:1.5em"><b>9am</b></h6>
+                </div>
+                <div class="col-md-6 text-left" >
+                  <h6 style="font-size:1.5em">Eat Food</h6>
+              </div>
+              </div>
+              
+              <div class="row justify-content-center" >
+                <div class="col-md-6 text-right" >
+                    <h6 style="font-size:1.5em"><b>10am</b></h6>
+                </div>
+                <div class="col-md-6 text-left" >
+                  <h6 style="font-size:1.5em">Eat More Food</h6>
+              </div>
+              </div>
+              
+              <div class="row justify-content-center" >
+                <div class="col-md-6 text-right" >
+                    <h6 style="font-size:1.5em"><b>11am</b></h6>
+                </div>
+                <div class="col-md-6 text-left" >
+                  <h6 style="font-size:1.5em">Drink Palinka</h6>
+              </div>
+              </div>
+              
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </section>
   
 
 
 
+
   
-  <section class="site-testimonial">
+  <section id="people" class="site-testimonial">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -333,6 +350,82 @@
   
 
 
+
+
+<section id="venue" class="site-project" id="project">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2>The Venue</h2>
+          <p>Details of the Venue</p>
+          <a target="_blank" href="https://deakudvarhaz.com/" class="site-project-cta">Venue Website</a>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="site-project-single-description">
+              The Venue is about an 40 mins from the center of Budapest.
+
+            </div>          
+          </div>
+          <div class="site-project-single-image">
+            
+            <img style="padding-bottom: 15px;" src="https://wedding.ciano.co.uk/images/backgrounds/main.jpeg" alt="image">
+            
+            <img style="padding-bottom: 15px;" src="https://deakudvarhaz.com/wp-content/uploads/2022/08/DSC09204-768x512.jpeg" alt="image">
+            
+            <img style="padding-bottom: 15px;" src="https://deakudvarhaz.com/wp-content/uploads/2022/08/gapp-407-768x513.jpg" alt="image">
+            
+            <img style="padding-bottom: 15px;" src="https://deakudvarhaz.com/wp-content/gallery/gasztronomia/3071_Aliz-Istvan-eskuvo_20210815_0F5A9902.jpg" alt="image">
+            
+          </div>
+        </div>
+        <iframe width="100%" height="600" style="border:0" loading="lazy" allowfullscreen
+                  referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=Kakucs,%20Nagyligetes%20tanya,%202366%20Hungary&t=&z=9&ie=UTF8&iwloc=&output=embed">
+                </iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+  
+  <section class="site-counter" id="faqs">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>Frequently Asked Questions</h2>
+          </div>
+        </div>
+        
+        <div class="col-lg-12 col-md-12">
+          <div class="site-counter-item">
+            <h3 class="site-counter-item-number"  style="font-size: 2em;">Will there be vegetarian options?</h3>
+            <span class="site-counter-item-title" style="font-size: 2em; padding-left: 20px;">yes! there are lots of fields nearby</span>
+          </div>
+        </div>
+        
+        <div class="col-lg-12 col-md-12">
+          <div class="site-counter-item">
+            <h3 class="site-counter-item-number"  style="font-size: 2em;">How will you support the LBTQ community?</h3>
+            <span class="site-counter-item-title" style="font-size: 2em; padding-left: 20px;">Sigh... it&#39;s not all about you. It&#39;s about us.</span>
+          </div>
+        </div>
+        
+        <div class="col-lg-12 col-md-12">
+          <div class="site-counter-item">
+            <h3 class="site-counter-item-number"  style="font-size: 2em;">How will everyone know my pronouns?</h3>
+            <span class="site-counter-item-title" style="font-size: 2em; padding-left: 20px;">They won&#39;t, you will get offended, no one will care and you can cry in the toilets.</span>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+  
 
 
 

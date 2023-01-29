@@ -1,6 +1,6 @@
-{{ with .Site.Data.testimonial }}
+{{ with .Site.Data.people }}
   {{ if .enable }}
-  <section class="site-testimonial">
+  <section id="people" class="site-testimonial">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -13,7 +13,7 @@
             </p>
           </div>
         </div>
-        {{ range .testimonial_item }}
+        {{ range .people }}
         <div class="col-lg-4 col-md-6">
           <div class="site-testimonial-item">
             <div class="site-testimonial-item-header">
@@ -22,11 +22,11 @@
               </div>
               <div class="person">
                 <h5>{{ .name }}</h5>
-                <p>{{ .company_position }}</p>
+                <p>{{ .role }}</p>
               </div>
             </div>
             <p class="site-testimonial-item-body">
-              {{ .quote }}
+              {{ .description }}
             </p>
           </div>
         </div>
