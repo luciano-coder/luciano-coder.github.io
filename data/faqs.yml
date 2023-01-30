@@ -1,9 +1,11 @@
 enable  : true
 title   : "Frequently Asked Questions"
 faqs: 
-  - q: "Will there be vegetarian options?"
-    a: "yes! there are lots of fields nearby"
-  - q: "How will you support the LBTQ community?"
-    a: "Sigh... it's not all about you. It's about us."
-  - q: "How will everyone know my pronouns?"
-    a: "They won't, you will get offended, no one will care and you can cry in the toilets."
+  - q: "Will there be vegetarian/gluten free/lactose free options?"
+    a: "Yes! There are lots of fields nearby... Just joking, but please let us know if you have any dietary requirements."
+  - q: "Where will I sleep?"
+    a: "Sigh... who said you will sleep? Anyway, the venue has accomodation on site. Please get in touch with Eszter if you need a room to be reserved so we can confirm the availibility and the costs with you. There are a limited number of rooms so please let us know as early as possible. We can alternatively find accommodation close to the venue."
+  - q: "Will there be enough alcohol?"
+    a: "Please define enough. We hope a FREE BAR will do?!"
+  - q: "What presents should we bring?"
+    a: "We don't expect you to bring any presents, neither in an object or in an envelope format. The present for us is that we can celebrate with you and we appreciate that it is a lot of travelling for most of you."

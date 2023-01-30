@@ -27,8 +27,12 @@ timeline :
     description : "More food & music & palinka until the sun comes up!"
   - time : "Next day 09:00"
     description : "I need coffee and some breakfast..."
+  - time : "10:00"
+    description : "You need to leave your room and get ready to go!"
   - time : "11:00"
-    description : "I don't want to leave!"
+    description : "Where is everyone?"
+
+
 
 
 
