@@ -1,1 +1,1 @@
-alias publish='hugo -d docs && git add -A && git commit -m "Updating site"'
+alias publish='hugo -d docs && git add -A && git commit -m "Updating site" && git push'
