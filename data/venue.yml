@@ -6,7 +6,7 @@ website_link_text: "Venue Website"
 content: >
   The Venue is about an 40 mins from the center of Budapest.
 images: 
-  - "images/backgrounds/main.jpeg"
+  - "/images/backgrounds/main.jpeg"
   - "https://deakudvarhaz.com/wp-content/uploads/2022/08/DSC09204-768x512.jpeg"
   - "https://deakudvarhaz.com/wp-content/uploads/2022/08/gapp-407-768x513.jpg"
   - "https://deakudvarhaz.com/wp-content/gallery/gasztronomia/3071_Aliz-Istvan-eskuvo_20210815_0F5A9902.jpg"
