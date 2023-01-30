@@ -4,13 +4,13 @@ subtitle: "Key people to know"
 people :
   - thumb : "images/people/eszter.png"
     name  : "Eszter Deriu"
-    role: "The most important person"
+    role: "The person who wanted to wear a white dress."
     description : >
-            Make sure she drinks plenty of water.
+            Make sure she drinks plenty of water and she is chilled.
 
   - thumb : "images/people/luciano.jpg"
     name  : "Luciano Deriu"
-    role: "Groom"
+    role: "The person who ......"
     description : > 
             Makes sure he drinks plenty of Palinka.
 
@@ -18,42 +18,66 @@ people :
     name  : "Ruby Deriu"
     role: "Daughter"
     description : > 
-            Makes sure she drinks plenty of Palinka.
-
-  - thumb : "images/people/gery.jpg"
-    name  : "Gery"
-    role: "Master of Ceremony"
-    description : > 
-            He will help coordinate the days events, expect him to boss you about. He is Hungarian and speaks very good English.
-            You can ask him about the days events if you have any questions.
+            Makes sure she is in eye-sight while her parents are having a party.
 
   - thumb : "images/people/dia.jpg"
     name  : "Dia"
     role: "Wedding Planner"
     description : > 
-            She will help coordinate the days events, expect her to boss you about. She is Hungarian and speaks very good English.
+            She has been working the hardest in the past year(s) and she is the heart of this succesful and beautiful day.
             You can ask her about the days events if you have any questions.
+  
+  - thumb : "images/people/gery.jpg"
+    name  : "Gery"
+    role: "Master of Ceremony"
+    description : > 
+            He is funny and will help coordinate the days events, expect him to tell you what to do.
+            You can ask him about the days events if you have any questions.
+
+  - thumb : "images/people/denes.jpg"
+    name  : "Denes"
+    role: "Photographer"
+    description : > 
+            You will recognise him, as he will have a camera attached to him. He will capture all the lovely and funny moments. Make sure you have a snap taken by him so we can all see your faces on the pictures.
+
+  - thumb : "images/people/kristof.jpg"
+    name  : "Kristof"
+    role: "Videographer"
+    description : > 
+            He is the other guy with a camera attached to him. He will capture all the lovely and funny moments and turn them into a video for us so we can all remember those moments, which we may not able to recall the next day. 
+
+  - thumb : "images/people/flora.jpg"
+    name  : "Flora"
+    role: "The ceremony lead"
+    description : > 
+            She will be with us for a short but very important time. Her role is to convince Eszter and Luciano to say yes once again. 
+  
+  - thumb : "images/people/dj.jpg"
+    name  : "Dj Lovi & Kriszta"
+    role: "The resident DJ"
+    description : > 
+            Jozsi and Kriszta know how to throw a great party but in case you have a wish, they may consider playing your favourite song. Except if we don't like it... 
 
   - thumb : "images/people/gabor.jpg"
     name  : "Gabor Mohacsi"
     role: "Father of the Bride"
     description : > 
-            Makes sure he drinks plenty of Palinka.
+            Makes sure he drinks plenty of Palinka and has some extra spoons at dinner.
 
   - thumb : "images/people/renata.jpg"
     name  : "Renata Mohacsi"
     role: "Mother of the Bride"
     description : > 
-            Makes sure he drinks plenty of Palinka.
+            Makes sure she drinks plenty of Palinka and if she has any grandchildren attached to her, kindly take them off of her so she can enjoy the day.
         
   - thumb : "images/people/fiona.jpg"
     name  : "Fiona Rigiani"
     role: "Mother of the Groom"
     description : > 
-            Makes sure he drinks plenty of Gin and Tonic.
+            Makes sure he drinks plenty of Palinka, even though she has no idea what that is.
   
   - thumb : "images/people/nick.jpg"
     name  : "Nick Henderson"
     role: "Step-Dad of the Groom"
     description : > 
-            Makes sure he drinks plenty of beer.
+            Makes sure he drinks plenty of beer and helps Fiona with the Palinka.
