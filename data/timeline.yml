@@ -11,3 +11,5 @@ timeline :
     description : "Drink Palinka, lots and lots and lots and lots"
   - time : "12pm"
     description : "Rum and coke"
+  - time : "14pm"
+    description : "Rum and coke"
