@@ -24,7 +24,7 @@
           <h5 class="site-footer-widget-title">{{ .title }}</h5>
           <ul class="site-footer-widget-links">
             {{ range .link }}
-            <li><a href="{{ .url | absURL }}">{{ .name }}</a></li>
+            <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
             {{ end }}
           </ul>
         </div>
@@ -54,7 +54,7 @@
       {{ end }}
       <div class="col-lg-2 col-12">
         <a href="#top" class="site-footer-widget-top">
-          <img src="{{ "images/to-top.svg" | absURL }}" alt="back-to-top">
+          <img src="{{ "images/to-top.svg" | relURL }}" alt="back-to-top">
         </a>
       </div>
     </div>
@@ -64,6 +64,6 @@
 <!-- {{ $formhandler := resources.Get "js/formhandler.js" | minify }}
 <script src="{{ $formhandler.Permalink }}"></script> -->
 {{ $vendor := resources.Get "js/vendor.js" | minify }}
-<script src="{{ $vendor.Permalink }}"></script>
+<script src="{{ $vendor.RelPermalink }}"></script>
 {{ $script := resources.Get "js/script.js" | minify }}
-<script src="{{ $script.Permalink }}"></script>
+<script src="{{ $script.RelPermalink }}"></script>

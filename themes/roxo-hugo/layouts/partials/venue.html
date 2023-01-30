@@ -17,7 +17,7 @@
           </div>
           <div class="site-project-single-image">
             {{ range .images }}
-            <img style="padding-bottom: 15px;" src="{{ . | absURL }}" alt="image">
+            <img style="padding-bottom: 15px;" src="{{ . | relURL }}" alt="image">
             {{ end }}
           </div>
         </div>
