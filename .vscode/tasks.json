@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Serve Drafts",
+            "label": "Quick View",
             "type": "shell",
             "command": "hugo server -D",
             "group": {
@@ -14,12 +14,22 @@
             "isBackground": true,
             "problemMatcher": []
         },
+        // {
+        //     "label": "Build",
+        //     "type": "shell",
+        //     "command": "hugo -d docs",
+        //     "group": {
+        //         "kind": "build",
+        //         "isDefault": true
+        //     },
+        //     "problemMatcher": []
+        // },
         {
-            "label": "Build",
+            "label": "Publish",
             "type": "shell",
-            "command": "hugo -d docs",
+            "command": "hugo -d docs && git add -A && git commit -m \"Updating site\" && git push",
             "group": {
-                "kind": "build",
+                "kind": "none",
                 "isDefault": true
             },
             "problemMatcher": []

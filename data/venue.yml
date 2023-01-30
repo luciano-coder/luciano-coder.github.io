@@ -3,11 +3,11 @@ title   : "The Venue"
 subtitle: "Details of the Venue"
 website_link: "https://deakudvarhaz.com/"
 website_link_text: "Venue Website"
+maps_embedded_url: "https://maps.google.com/maps?q=Kakucs,%20Nagyligetes%20tanya,%202366%20Hungary&t=&z=9&ie=UTF8&iwloc=&output=embed"
 content: >
-  The Venue is about an 40 mins from the center of Budapest.
+  The Venue is about an 40 mins from the center of Budapest
 images: 
   - "/images/backgrounds/main.jpeg"
   - "https://deakudvarhaz.com/wp-content/uploads/2022/08/DSC09204-768x512.jpeg"
   - "https://deakudvarhaz.com/wp-content/uploads/2022/08/gapp-407-768x513.jpg"
   - "https://deakudvarhaz.com/wp-content/gallery/gasztronomia/3071_Aliz-Istvan-eskuvo_20210815_0F5A9902.jpg"
-maps_embedded_url: "https://maps.google.com/maps?q=Kakucs,%20Nagyligetes%20tanya,%202366%20Hungary&t=&z=9&ie=UTF8&iwloc=&output=embed"
