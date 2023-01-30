@@ -2,57 +2,57 @@ enable  : true
 title   : "People to know"
 subtitle: "Key people to know"
 people :
-  - thumb : "images/testimonial/eszter.png"
+  - thumb : "images/people/eszter.png"
     name  : "Eszter Deriu"
     role: "The most important person"
     description : >
             Make sure she drinks plenty of water.
 
-  - thumb : "images/testimonial/luciano.jpg"
+  - thumb : "images/people/luciano.jpg"
     name  : "Luciano Deriu"
     role: "Groom"
     description : > 
             Makes sure he drinks plenty of Palinka.
 
-  - thumb : "images/testimonial/ruby.jpg"
+  - thumb : "images/people/ruby.jpg"
     name  : "Ruby Deriu"
     role: "Daughter"
     description : > 
             Makes sure she drinks plenty of Palinka.
 
-  - thumb : "images/testimonial/gery.jpg"
+  - thumb : "images/people/gery.jpg"
     name  : "Gery"
     role: "Master of Ceremony"
     description : > 
             He will help coordinate the days events, expect him to boss you about. He is Hungarian and speaks very good English.
             You can ask him about the days events if you have any questions.
 
-  - thumb : "images/testimonial/dia.jpg"
+  - thumb : "images/people/dia.jpg"
     name  : "Dia"
     role: "Wedding Planner"
     description : > 
             She will help coordinate the days events, expect her to boss you about. She is Hungarian and speaks very good English.
             You can ask her about the days events if you have any questions.
 
-  - thumb : "images/testimonial/gabor.jpg"
+  - thumb : "images/people/gabor.jpg"
     name  : "Gabor Mohacsi"
     role: "Father of the Bride"
     description : > 
             Makes sure he drinks plenty of Palinka.
 
-  - thumb : "images/testimonial/renata.jpg"
+  - thumb : "images/people/renata.jpg"
     name  : "Renata Mohacsi"
     role: "Mother of the Bride"
     description : > 
             Makes sure he drinks plenty of Palinka.
         
-  - thumb : "images/testimonial/fiona.jpg"
+  - thumb : "images/people/fiona.jpg"
     name  : "Fiona Rigiani"
     role: "Mother of the Groom"
     description : > 
             Makes sure he drinks plenty of Gin and Tonic.
   
-  - thumb : "images/testimonial/nick.jpg"
+  - thumb : "images/people/nick.jpg"
     name  : "Nick Henderson"
     role: "Step-Dad of the Groom"
     description : > 
