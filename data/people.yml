@@ -2,7 +2,7 @@ enable  : true
 title   : "People to know"
 subtitle: "Key people to know"
 people :
-  - thumb : "images/people/eszter.png"
+  - thumb : "images/people/ABC.JPG"
     name  : "Eszter Deriu"
     role: "The person who wanted to wear a white dress."
     description : >
