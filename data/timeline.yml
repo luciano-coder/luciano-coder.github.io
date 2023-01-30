@@ -9,3 +9,5 @@ timeline :
     description : "Eat More Food"
   - time : "11am"
     description : "Drink Palinka, lots and lots and lots and lots"
+  - time : "12pm"
+    description : "Rum and coke"
