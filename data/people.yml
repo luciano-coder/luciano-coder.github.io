@@ -4,13 +4,13 @@ subtitle: "Key people to know"
 people :
   - thumb : "images/people/ABC.JPG"
     name  : "Eszter Deriu"
-    role: "The person who wanted to wear a white dress."
+    role: "Bride"
     description : >
-            Make sure she drinks plenty of water and she is chilled.
+            The person who wanted to wear the white dress..
 
   - thumb : "images/people/luciano.jpg"
     name  : "Luciano Deriu"
-    role: "The person who ......"
+    role: "Groom"
     description : > 
             Makes sure he drinks plenty of Palinka.
 
@@ -74,7 +74,7 @@ people :
     name  : "Fiona Rigiani"
     role: "Mother of the Groom"
     description : > 
-            Makes sure he drinks plenty of Palinka, even though she has no idea what that is.
+            Makes sure she drinks plenty of Palinka, even though she has no idea what that is!
   
   - thumb : "images/people/nick.jpg"
     name  : "Nick Henderson"
