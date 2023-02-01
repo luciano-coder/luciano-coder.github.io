@@ -2,7 +2,7 @@ enable  : true
 title   : "People to know"
 subtitle: "Key people to know"
 people :
-  - thumb : "images/people/ABC.JPG"
+  - thumb : "https://media.licdn.com/dms/image/C4E03AQH2sVIX-21zMQ/profile-displayphoto-shrink_800_800/0/1550933399762?e=1680739200&v=beta&t=AyBrHt2zIXv7DwJtVDxYPTkM4DYgQEarUspnvKIMDfE"
     name  : "Eszter Deriu"
     role: "Bride"
     description : >
@@ -20,51 +20,51 @@ people :
     description : > 
             Makes sure she is in eye-sight while her parents are having a party.
 
-  - thumb : "images/people/dia.jpg"
+  - thumb : "https://www.boldogsagod.hu/images/rendszeroldal/dianakep3.jpg"
     name  : "Dia"
     role: "Wedding Planner"
     description : > 
             She has been working the hardest in the past year(s) and she is the heart of this succesful and beautiful day.
             You can ask her about the days events if you have any questions.
   
-  - thumb : "images/people/gery.jpg"
+  - thumb : "https://szakalygergo.hu/wp-content/uploads/2020/10/szakaly-gergo-ceremoniamester.jpg"
     name  : "Gery"
     role: "Master of Ceremony"
     description : > 
             He is funny and will help coordinate the days events, expect him to tell you what to do.
             You can ask him about the days events if you have any questions.
 
-  - thumb : "images/people/denes.jpg"
+  - thumb : "https://images-pw.pixieset.com/elementfield/009590361/BCAM8282-2-9991fcbd.JPG"
     name  : "Denes"
     role: "Photographer"
     description : > 
             You will recognise him, as he will have a camera attached to him. He will capture all the lovely and funny moments. Make sure you have a snap taken by him so we can all see your faces on the pictures.
 
-  - thumb : "images/people/kristof.jpg"
+  - thumb : "https://images-pw.pixieset.com/elementfield/41185678/674A3558small-8f4359bf.jpg"
     name  : "Abel"
     role: "Videographer"
     description : > 
             He is the other guy with a camera attached to him. He will capture all the lovely and funny moments and turn them into a video for us so we can all remember those moments, which we may not able to recall the next day. 
 
-  - thumb : "images/people/flora.jpg"
+  - thumb : "https://files.widgetic.com/file/widgetic-uploads/weebly/mosaic-gallery/18387987/k2ua26ww-a5nzhu.jpg"
     name  : "Flora"
     role: "The ceremony lead"
     description : > 
             She will be with us for a short but very important time. Her role is to convince Eszter and Luciano to say yes once again. 
   
-  - thumb : "images/people/dj.jpg"
+  - thumb : "https://djlovi.com/wp-content/uploads/2020/12/IMG_7723-masolatab.jpeg"
     name  : "Dj Lovi & Kriszta"
     role: "The resident DJ"
     description : > 
             Jozsi and Kriszta know how to throw a great party but in case you have a wish, they may consider playing your favourite song. Except if we don't like it... 
 
-  - thumb : "images/people/gabor.jpg"
+  - thumb : "https://scontent.flhr10-1.fna.fbcdn.net/v/t31.18172-8/12244536_1038322942886774_1898864118881924526_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7blUbbARITcAX82Jy8B&_nc_ht=scontent.flhr10-1.fna&oh=00_AfDWLt0dgDMwnI3tHO4_fq1rWk3CWqIxJ5kMifVAf7YJUA&oe=64022488"
     name  : "Gabor Mohacsi"
     role: "Father of the Bride"
     description : > 
             Makes sure he drinks plenty of Palinka and has some extra spoons at dinner.
 
-  - thumb : "images/people/renata.jpg"
+  - thumb : "https://scontent.flhr10-1.fna.fbcdn.net/v/t39.30808-6/270416440_5472319639464661_4618531276002296354_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=5IyBtIgIrN4AX8G88GX&_nc_ht=scontent.flhr10-1.fna&oh=00_AfDi-O6rcmegln03gN2r3ahzxCm8JzEUFSqGg1-G2xXOPg&oe=63E00F9D"
     name  : "Renata Mohacsi"
     role: "Mother of the Bride"
     description : > 
