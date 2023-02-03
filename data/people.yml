@@ -8,7 +8,7 @@ people :
     description : >
             The person who wanted to wear the white dress..
 
-  - thumb : "images/people/luciano.jpg"
+  - thumb : "/images/people/luciano.jpg"
     name  : "Luciano Deriu"
     role: "Groom"
     description : > 
@@ -70,13 +70,13 @@ people :
     description : > 
             Makes sure she drinks plenty of Palinka and if she has any grandchildren attached to her, kindly take them off of her so she can enjoy the day.
         
-  - thumb : "images/people/fiona.jpg"
+  - thumb : "/images/people/fiona.jpg"
     name  : "Fiona Rigiani"
     role: "Mother of the Groom"
     description : > 
             Makes sure she drinks plenty of Palinka, even though she has no idea what that is!
   
-  - thumb : "images/people/nick.jpg"
+  - thumb : "/images/people/nick.jpg"
     name  : "Nick Henderson"
     role: "Step-Dad of the Groom"
     description : > 
