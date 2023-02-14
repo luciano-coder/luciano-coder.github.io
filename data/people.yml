@@ -2,7 +2,7 @@ enable  : true
 title   : "People to know"
 subtitle: "Key people to know"
 people :
-  - thumb : "https://media.licdn.com/dms/image/C4E03AQH2sVIX-21zMQ/profile-displayphoto-shrink_800_800/0/1550933399762?e=1680739200&v=beta&t=AyBrHt2zIXv7DwJtVDxYPTkM4DYgQEarUspnvKIMDfE"
+  - thumb : "/images/"
     name  : "Eszter Deriu"
     role: "Bride"
     description : >
