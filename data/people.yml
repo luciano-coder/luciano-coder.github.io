@@ -1,6 +1,6 @@
 enable  : true
 title   : "People to know"
-subtitle: "Key people to know"
+subtitle: ""
 people :
   - thumb : "/images/people/eszter.jpeg"
     name  : "Eszter Deriu"
