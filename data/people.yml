@@ -2,23 +2,20 @@ enable  : true
 title   : "People to know"
 subtitle: "Key people to know"
 people :
-  - thumb : "https://media.licdn.com/dms/image/C4E03AQH2sVIX-21zMQ/profile-displayphoto-shrink_800_800/0/1550933399762?e=1680739200&v=beta&t=AyBrHt2zIXv7DwJtVDxYPTkM4DYgQEarUspnvKIMDfE"
+  - thumb : "/images/people/eszter.jpeg"
     name  : "Eszter Deriu"
     role: "Bride"
     description : >
-            The person who wanted to wear the white dress..
 
-  - thumb : "/images/people/luciano.jpg"
+  - thumb : "/images/people/luciano.jpeg"
     name  : "Luciano Deriu"
     role: "Groom"
     description : > 
-            Makes sure he drinks plenty of Palinka.
 
-  - thumb : "https://scontent.flhr10-2.fna.fbcdn.net/v/t1.6435-9/176293706_10226410119499234_3990873262490742121_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=RxWDehhL9L8AX8PQB1i&_nc_ht=scontent.flhr10-2.fna&oh=00_AfBVBvBjxzZ4525a1tirnGVMzZmEXd7KXGm6fTbDPorA0Q&oe=64022F1D"
+  - thumb : "/images/people/ruby.jpeg"
     name  : "Ruby Deriu"
     role: "Daughter"
     description : > 
-            Makes sure she is in eye-sight while her parents are having a party.
 
   - thumb : "https://www.boldogsagod.hu/images/rendszeroldal/dianakep3.jpg"
     name  : "Dia"
@@ -31,7 +28,7 @@ people :
     name  : "Gery"
     role: "Master of Ceremony"
     description : > 
-            He is funny and will help coordinate the days events, expect him to tell you what to do.
+            He is will make sure we have a fun and well coordinated day, expect him to tell you what to do.
             You can ask him about the days events if you have any questions.
 
   - thumb : "https://images-pw.pixieset.com/elementfield/009590361/BCAM8282-2-9991fcbd.JPG"
@@ -58,26 +55,23 @@ people :
     description : > 
             Jozsi and Kriszta know how to throw a great party but in case you have a wish, they may consider playing your favourite song. Except if we don't like it... 
 
-  - thumb : "https://scontent.flhr10-1.fna.fbcdn.net/v/t31.18172-8/12244536_1038322942886774_1898864118881924526_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7blUbbARITcAX82Jy8B&_nc_ht=scontent.flhr10-1.fna&oh=00_AfDWLt0dgDMwnI3tHO4_fq1rWk3CWqIxJ5kMifVAf7YJUA&oe=64022488"
-    name  : "Gabor Mohacsi"
-    role: "Father of the Bride"
-    description : > 
-            Makes sure he drinks plenty of Palinka and has some extra spoons at dinner.
-
-  - thumb : "https://scontent.flhr10-1.fna.fbcdn.net/v/t39.30808-6/270416440_5472319639464661_4618531276002296354_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=5IyBtIgIrN4AX8G88GX&_nc_ht=scontent.flhr10-1.fna&oh=00_AfDi-O6rcmegln03gN2r3ahzxCm8JzEUFSqGg1-G2xXOPg&oe=63E00F9D"
+  - thumb : "/images/people/anya.jpg"
     name  : "Renata Mohacsi"
     role: "Mother of the Bride"
     description : > 
-            Makes sure she drinks plenty of Palinka and if she has any grandchildren attached to her, kindly take them off of her so she can enjoy the day.
-        
+
+  - thumb : "/images/people/apa.jpg"
+    name  : "Gabor Mohacsi"
+    role: "Father of the Bride"
+    description : > 
+
   - thumb : "/images/people/fiona.jpeg"
     name  : "Fiona Rigiani"
     role: "Mother of the Groom"
     description : > 
-            Makes sure she drinks plenty of Palinka, even though she has no idea what that is!
-  
+
   - thumb : "/images/people/nick.jpeg"
     name  : "Nick Henderson"
     role: "Step-Dad of the Groom"
     description : > 
-            Makes sure he drinks plenty of beer and helps Fiona with the Palinka.
+  
